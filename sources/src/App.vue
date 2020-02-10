@@ -1487,6 +1487,13 @@ export default {
                 text:
                   "Zilogic Systems is using Robot Framework for integration testing of embedded products. We convert requirements into test cases,write necessary libraries to test the Device Under Test."
               },
+              {
+                title: "Zymr Inc",
+                href: "http://www.zymr.com",
+                img: require("@/assets/img/users/zymr.png"),
+                text:
+                  "Since Inception, Zymr has been using Robot Framework extensively for automating features of different projects of our customers. It has been used within Docker and outside Docker."
+              }
             ]
           }
         },
